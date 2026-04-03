@@ -103,7 +103,7 @@ body {
 
 @media (max-width: 1200px) {
   .apresentacao {
-    flex-direction: column;
+    flex-direction: column-reverse;
     text-align: center;
   }
 
