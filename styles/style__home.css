@@ -79,7 +79,7 @@ body {
   font-family: var(--fonte-titulo);
   font-weight: 400;
   font-size: 1.5rem;
-  color:var(--cor-terciaria)
+  color:var(--cor-terciaria);
 }
 
 .apresentacao__links__navegacao {
