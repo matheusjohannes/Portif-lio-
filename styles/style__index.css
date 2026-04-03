@@ -130,7 +130,7 @@ body {
     justify-content: center;
   }
   .apresentacao{
-    flex-direction: column-reverse;
+    flex-direction: column;
     padding: 5%;
   }
 
@@ -139,6 +139,7 @@ body {
   }
 
   .apresentacao__imagem {
+    flex-direction: column-reverse;
     width: auto;
   }
 }
