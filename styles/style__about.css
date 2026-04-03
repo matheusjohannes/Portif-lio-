@@ -5,8 +5,8 @@
   --cor-secundaria: #697565;
   --cor-terciaria: #f5f5f5;
 
-  --fonte-titulo: "Krona One", sans-serif;
-  --fonte-texto: "Montserrat", sans-serif;
+  --fonte-titulo: "Krona One", "sans-serif";
+  --fonte-texto: "Montserrat", "sans-serif";
 }
 
 * {
